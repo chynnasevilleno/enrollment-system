@@ -25,4 +25,8 @@ The project could be improved. Form names were confusing for me while developmen
 
 I tried to make the project easy to understand by accompanying words with symbols in the home page (functioning like quick links for faster completion of user goals). The "Enrollment Summary" seems to be too vague for a user, I consider it to be a bad microcopy (it could be renamed to "enrollment details" because it's basically showing all enrolled students and clicking on a certain student would display the subjects they are enrolled in).
 
+Users include both students and administrators. Functionalities for students are limited to viewing grades and adding a subject. Administrators have access to the whole program. Basic functions for administrators include viewing/creating/editing a student/subject/grade, updating a student's profile details, and more that I probably forgot already.
+
+The scope of this project does not cover use cases like a) archiving the student's subject & grades after the semester, b) dropping a subject in case you wanted to add a different time slot, c) scheduling and validating if your schedule isn't converging with another subject, d) limiting the number of units a student can take, e) teacher assignment for each subject, f) limiting the number of students in a class.
+
 I'd give this project 8/10 for functionalities, 6/10 for the visual design, 7/10 for UX, 10/10 for effort :D
